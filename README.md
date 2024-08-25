@@ -20,8 +20,8 @@
 
 [https://coooms.com/](https://coooms.com/)  
 ゲストログインは以下のアカウントをご利用ください。  
-E メール: guest@email.com  
-パスワード: Guest000/
+`E メール: guest@email.com`  
+`パスワード: Guest000/`
 
 ## 使用技術
 
