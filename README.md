@@ -1,4 +1,4 @@
-こちらは「Coooms」のバックエンドのリポジトリになります。バックエンドのリポジトリは[こちら](https://github.com/Takumi-Itaya/coooms-frontend)です。
+こちらは「Coooms」のバックエンドのリポジトリになります。フロントエンドのリポジトリは[こちら](https://github.com/Takumi-Itaya/coooms-frontend)です。
 
 # Coooms
 
